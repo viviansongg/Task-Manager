@@ -6,3 +6,5 @@ A fully functional project/task management system that allows the user to schedu
 1. A login portal
 2. A to-do list that allows users to add, delete, and edit tasks which are saved to a database using Microsoft Access
 3. A digital notepad for jotting down notes
+
+![API Screenshot](image1.png)
